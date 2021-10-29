@@ -17,6 +17,8 @@ and then tested the data on the training and hold out sets.
 ## Repository Navigation
 - All data analysis and models can be found inside the Notebooks
 - Notebook
+- Notebook for the overview Evalution 
+- pdf of the presentation
 - README.md
 
 ## Authors 
